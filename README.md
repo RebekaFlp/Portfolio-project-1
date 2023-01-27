@@ -1,0 +1,1 @@
+Hello! This is going to be the place for my first portfolio project on Codecademy.
